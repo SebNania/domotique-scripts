@@ -1,2 +1,2 @@
 # domotique-scripts
-Collection de script utilisé a la maison pour domoticz etc
+Collection de scripts utilisés a la maison pour domoticz etc
