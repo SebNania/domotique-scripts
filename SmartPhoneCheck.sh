@@ -2,6 +2,7 @@
 # Based on the excellent community work here : https://www.domoticz.com/forum/viewtopic.php?t=6264
 # Adapted to my configuration
 # Last Update 20160903
+# Used to detect if smartphones are in by l2ping on bluetooth and if no response search for the smartphone in arp table
 ## Installation ##
 # Add this script in the /etc/local.rc like that :
 # /path/to/your/script/script.sh BTMAC WiFiMAC SwitchID &
